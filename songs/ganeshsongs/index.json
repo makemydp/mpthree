@@ -1,20 +1,68 @@
 [
 {
-"sname" : "Title 1",
-"stitle" : "subtitle 1",
-"slink" : "http://www.devotionalsongs.com/Audio/Chanting_Meditation.mp3",
+"sname" : "Ghallu Ghalluna Pada",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/GhalluGhallunaPada.mp3",
 "simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g1.jpg"
 },
 {
-"sname" : "Title 2",
-"stitle" : "subtitle 2",
-"slink" : "http://www.devotionalsongs.com/Audio/BhajaGovindam.mp3",
+"sname" : "Jaya Jaya Harathi",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/JayaJayaHarathi.mp3",
 "simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g2.jpg"
 },
 {
-"sname" : "Title 3",
-"stitle" : "subtitle 3",
-"slink" : "http://www.devotionalsongs.com/Audio/SriAnnapurnaStotram.mp3",
+"sname" : "Jayamangalam Bhakta janulaku",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/JayamangalamBhaktajanulaku.mp3",
 "simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g3.jpg"
+}, 
+{
+"sname" : "Jayamangalam Nitya",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/JayamangalamNitya.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g4.jpg"
+},
+{
+"sname" : "Mangala Harathi Neekamma",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/MangalaHarathiNeekamma.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g5.jpg"
+},
+{
+"sname" : "Mangalamani Mangalamani",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/MangalamaniMangalamani.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g6.jpg"
+},
+{
+"sname" : "Mangalam tavabhavatu",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/Mangalamtavabhavatu.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g7.jpg"
+},
+{
+"sname" : "Rama Chandraya Janaka",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/RamaChandrayaJanaka.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g8.jpg"
+},
+{
+"sname" : "Sree Mata Sree Gouri",
+"stitle" : "Sampradaya Mangala Harathulu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/SreeMataSreeGouri.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g9.jpg"
+},
+{
+"sname" : "Sree Satyanarayanuni",
+"stitle" : "S.P.Balu",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/SreeSatyanarayanuni.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g10.jpg"
+},
+{
+"sname" : "Vakratunda Mahakaya",
+"stitle" : "Devullu Movie",
+"slink" : "https://mp3.commondp.com/songs/ganeshsongs/store/VakratundaMahakaya.mp3",
+"simage" : "https://mp3.commondp.com/songs/ganeshsongs/img/g11.jpg"
 }
 ]
