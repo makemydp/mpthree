@@ -1,11 +1,11 @@
 [
 {
-"ban1" : "/img/b1.jpg",
-"ban2" : "/img/b2.jpg",
-"ban3" : "/img/b3.jpg",
+"ban1" : "https://mp3.commondp.com/songs/VishnuSahasranamam/img/b1.jpg",
+"ban2" : "https://mp3.commondp.com/songs/VishnuSahasranamam/img/b2.jpg",
+"ban3" : "https://mp3.commondp.com/songs/VishnuSahasranamam/img/b3.jpg",
 "tele" : "https://tx.me/velayudhan1",
 "insta" : "https://instagramx.com/makemydp",
-"main" : "/index.json",
+"main" : "https://mp3.commondp.com/songs/VishnuSahasranamam/index.json",
 "privacy" : "https://mp3.commondp.com/info/index.html"
 },
 {
